@@ -3,3 +3,6 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+body {
+    background-color: rgb(253, 150, 53);
+  }
